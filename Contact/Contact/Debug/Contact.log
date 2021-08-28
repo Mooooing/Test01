@@ -1,0 +1,3 @@
+﻿  contact.c
+D:\CodeTest\C\Contact\Contact\contact.c(101,25): warning C4090: “函数”: 不同的“const”限定符
+  Contact.vcxproj -> D:\CodeTest\C\Contact\Debug\Contact.exe
