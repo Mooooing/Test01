@@ -1,0 +1,8 @@
+﻿  contact.c
+D:\CodeTest\C\动态通讯录\动态通讯录\contact.c(122,25): warning C4090: “函数”: 不同的“const”限定符
+  test.c
+D:\CodeTest\C\动态通讯录\动态通讯录\test.c(56,22): error C2065: “ps”: 未声明的标识符
+D:\CodeTest\C\动态通讯录\动态通讯录\test.c(56,19): error C2100: 非法的间接寻址
+D:\CodeTest\C\动态通讯录\动态通讯录\test.c(56,22): warning C4047: “函数”:“Contact *”与“int”的间接级别不同
+D:\CodeTest\C\动态通讯录\动态通讯录\test.c(56,20): warning C4024: “DestroyContact”: 形参和实参 1 的类型不同
+  正在生成代码...
